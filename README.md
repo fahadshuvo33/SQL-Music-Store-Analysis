@@ -19,11 +19,11 @@ You will also need to have a MySQL client installed. If you're using a Mac, you 
 To use this project, first, clone the repository to your local machine:
 
 ~~~bash
-git clone https://gitlab.com/fahadshuvo/sql-music-store-analysis.git
+git clone https://github.com/fahadshuvo33/SQL-Music-Store-Analysis.git
 ~~~
 Then, navigate to the project directory:
 ~~~bash
-cd sql-music-store-analysis
+cd SQL-Music-Store-Analysis
 ~~~
 To create the database and tables, run the following command:
 ~~~bash
